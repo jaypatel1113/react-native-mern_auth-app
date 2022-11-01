@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/jaypatel3382/Native_AuthApp-Frontend
+[submodule "resetPasswordRectApp"]
+	path = resetPasswordRectApp
+	url = https://github.com/jaypatel3382/AuthApp-resetPassword
+[submodule "server"]
+	path = server
+	url = https://github.com/jaypatel3382/Native_AuthApp-Backend
